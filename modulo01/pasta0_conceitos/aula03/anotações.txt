@@ -1,0 +1,12 @@
+Variáveis do tipo string armazena string :/ ;
+
+double armazena números exatos, com vírgulas porém mais "a fundo";
+
+int armazena somente números inteiros;
+
+float armazena números mais "inteiros", onde os números após a virgula não são imensos,
+como exemplo: 9.99 | 9.912;
+
+bool armazena valores booleanos (true / false ou 1 / 0);
+
+char armazena somente UMA letra, literal (exemplo: 'a' / 'A').

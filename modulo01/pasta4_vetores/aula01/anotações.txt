@@ -1,0 +1,28 @@
+O tamanho definido em array[n] representa exatamente quantos elementos cabem no array, começando a contagem do índice 0. Isso pode confundir no começo porque:
+
+Se declararmos, por exemplo:
+
+int array[5];
+
+A array tem 5 posições válidas, que são:
+
+- array[0]
+- array[1]
+- array[2]
+- array[3]
+- array[4]
+
+Ou seja, o último índice válido é n - 1, porque a contagem começa no zero.
+Não existe array[5] nesse caso — acessar isso causa erro.
+
+Então, se colocarmos:
+
+int array[3];
+
+Só podemos armazenar dados assim:
+
+array[0] = ...;
+array[1] = ...;
+array[2] = ...;
+
+A tentativa de acessar array[3] causaria comportamento indefinido (e possivelmente travaria o programa).

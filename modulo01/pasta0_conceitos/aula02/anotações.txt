@@ -1,0 +1,3 @@
+O operador << no C++ é utilizado para enviar dados para o fluxo de saída, ou seja, ele "joga" um valor ou texto na tela ou outro dispositivo de saída. Isso é comumente usado com o std::cout.
+
+O operador >> no C++ é utilizado para obter dados do fluxo de entrada, ou seja, ele "pega" o valor ou texto inserido pelo usuário e armazena na variável correspondente. Isso é comumente usado com o std::cin.

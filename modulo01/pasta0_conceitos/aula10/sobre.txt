@@ -1,0 +1,8 @@
+Aula 10 - Operador Ternário
+
+Essa aula apresentou o operador ternário como uma forma resumida de tomar decisões simples. Ele é útil quando queremos atribuir um valor com base em uma condição, em uma única linha de código.
+
+É mais legível para comparações simples, mas deve ser evitado quando há múltiplas condições ou lógica complexa.
+
+Formato geral:
+condição ? valor_se_verdadeiro : valor_se_falso;

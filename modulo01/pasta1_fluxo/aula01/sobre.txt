@@ -1,0 +1,7 @@
+Nesta aula aprendemos a usar o laço de repetição `while` para fazer uma contagem regressiva.
+
+O programa começa com o número 10 e, enquanto o número for maior ou igual a 1, ele imprime o valor e diminui 1.
+
+No final, mostramos a mensagem "Contagem regressiva encerrada!".
+
+Essa estrutura é muito útil para repetições com condições específicas.

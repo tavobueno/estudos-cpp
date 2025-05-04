@@ -1,0 +1,6 @@
+Aula 02 - Trabalhando com Variáveis e Entrada de Dados (Base - Módulo 01)
+
+Objetivo:
+ Entender como criar e manipular variáveis;
+ Aprender a ler entradas de dados do usuário com std::cin;
+ Entender sobre o uso de ">>" e "<<" no C+.

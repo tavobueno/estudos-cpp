@@ -1,0 +1,42 @@
+📘 AULA 02 — SOMANDO ELEMENTOS DE UMA ARRAY
+
+Nível: Base
+Objetivo:
+
+    Reforçar como percorrer arrays com for
+
+    Praticar soma de todos os elementos
+
+    Introduzir o conceito de acumulador
+
+Conceitos que você vai aprender:
+
+  Como somar todos os valores de uma array
+
+  O que é uma variável acumuladora
+
+  Como o for pode ser usado para somar, contar, etc.
+
+✅ Sua missão:
+
+Criar um código em pratica.cpp que:
+
+    Solicita ao usuário quantos números ele quer digitar
+
+    Armazena esses números em uma array
+
+    Mostra todos os números digitados
+
+    Mostra a soma total dos números
+
+💡 Exemplo (execução esperada):
+
+Quantos números você quer digitar? 4
+
+1º número: 10
+2º número: 5
+3º número: -2
+4º número: 7
+
+Os números digitados foram: 10, 5, -2, 7.
+A soma total é: 20.

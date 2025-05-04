@@ -1,0 +1,2 @@
+Aula 01 - Menu Simples de Calculadora
+Criação de um menu interativo que executa operações matemáticas básicas (soma, subtração, multiplicação e divisão). Uso de estruturas condicionais (if) e switch.

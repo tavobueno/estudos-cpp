@@ -1,0 +1,4 @@
+Exercício: Fazer um menu para contar até um número onde o usuário digitar.
+
+Novidades aprendidas aqui:
+- Nova importação de biblioteca (cstdlib) para limpar o terminal com o comando "system(pause);".

@@ -1,0 +1,9 @@
+- O operador ternário é uma forma curta de escrever um if...else.
+
+- Sintaxe:
+  variável = (condição) ? valor_se_verdadeiro : valor_se_falso;
+
+- É ótimo para decisões rápidas como:
+    idade >= 18 ? "Pode tirar carteira" : "Ainda não pode"
+
+- Evite usar o ternário se a condição for muito longa ou tiver muitos blocos encadeados.

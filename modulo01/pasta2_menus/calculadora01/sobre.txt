@@ -1,0 +1,11 @@
+📋 Desafio prático:
+
+Modifique seu código da Aula 01 para que o menu funcione repetidamente. Ele deve:
+
+    Mostrar o menu toda vez após uma operação ser feita;
+
+    Permitir que o usuário escolha novas opções e realize novos cálculos;
+
+    Encerrar apenas quando a opção [0] Sair for escolhida.
+
+Observação: fiz só uma alteração de é usar o método while. Caso a opção fosse diferente de 0 ele executava todo o programa normalmente e repetindo o menu toda vez que fizesse um calculo.

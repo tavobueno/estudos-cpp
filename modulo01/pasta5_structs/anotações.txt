@@ -1,0 +1,19 @@
+Definimos um struct com:
+struct nomecorpo{
+  propriedades;
+}
+por exemplo:
+struct nomecorpo{
+  std::string nome;
+  int idade;
+}
+
+int main(){
+  nomecorpo pessoa;
+
+  pessoa.nome = "gustavo";
+  pessoa.idade = 14;
+}
+
+
+quando fizemos "nomecorpo" e citamos um outro parâmetro, ele vira tipo uma variável de objetos, com propriedades e etc...

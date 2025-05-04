@@ -1,0 +1,13 @@
+Nessa aula, vimos mais a fundo sobre outros tipos de variáveis, incluindo variáveis do tipo:
+
+double;
+
+int;
+
+float;
+
+std::string;
+
+bool;
+
+char.

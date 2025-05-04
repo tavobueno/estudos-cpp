@@ -1,0 +1,4 @@
+Aula 02 - Estrutura de repetição while (contagem crescente)
+
+Nesta aula, aprendi a usar o laço de repetição while para fazer uma contagem crescente de 1 até 10.
+O while executa o bloco de código enquanto a condição for verdadeira, e foi importante lembrar de incrementar a variável para evitar loops infinitos.

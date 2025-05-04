@@ -1,0 +1,18 @@
+AULA 01 - ARRAYS (VETORES)
+
+Nesta aula, foi apresentado o conceito de arrays em C++, também chamados de vetores.
+Arrays são estruturas que permitem armazenar múltiplos valores de um mesmo tipo, acessíveis por índices.
+
+🔹 Um array declarado como `int array[5];` terá 5 posições numeradas de 0 a 4.
+🔹 O índice de um array sempre começa em 0, então o último índice válido será `n - 1`.
+🔹 A tentativa de acessar um índice fora desse intervalo (como `array[5]` em um array de tamanho 5) causará comportamento indefinido e pode levar o programa a travar (crash).
+🔹 A leitura de valores em um array pode ser feita com um laço `for`, respeitando o tamanho definido.
+🔹 A escrita dos dados também pode ser organizada com `for`, e é importante saber usar `if` para tratar detalhes de formatação (como vírgulas e pontos no final da exibição).
+
+🧠 Dica aprendida:
+Mesmo que a ideia de "5 posições" pareça significar índices de 1 a 5, o correto é de 0 a 4. A posição 0 conta como uma posição válida.
+
+Exemplo:
+```cpp
+int array[5];
+// índices válidos: 0, 1, 2, 3, 4

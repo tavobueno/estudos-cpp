@@ -1,0 +1,2 @@
+Loop while: Executa enquanto a condição especificada for verdadeira. Nesse caso, o programa continua mostrando o menu até que a opção 4 seja escolhida.
+

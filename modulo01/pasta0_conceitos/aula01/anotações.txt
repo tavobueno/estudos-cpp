@@ -1,0 +1,14 @@
+📦 #include <iostream> -> entrada e saída (terminal)
+ - include server para tipo importar um pacote para ser disponível seu uso, e no pacote iostream (in out stream) tem o std, que é onde fica o cout por exemplo, e devemos utilizar o parâmetro "std::cout << string/variavel/sei la" para fazer o seguinte:
+ std -> pacote;
+ :: -> "selecionando";
+ cout -> tipo de funcionalidade dentro desse pacote.
+
+
+🧠 int main() -> função principal
+- int significa que essa função vai retornar um número inteiro;
+- main significa o nome da função;
+- () caso queiramos passar parâmetros.
+
+
+🔚 return 0; -> fim do programa

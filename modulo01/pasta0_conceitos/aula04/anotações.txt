@@ -1,0 +1,25 @@
+-> Operadores Aritméticos
+São usados para fazer contas, como em matemática normal:
+
+Operador | Exemplo | Significado
++        | a + b   | Soma
+-        | a - b   | Subtração
+*        | a * b   | Multiplicação
+/        | a / b   | Divisão
+%        | a % b   | Resto da divisão
+
+Obs: % funciona apenas com inteiros (int)!
+
+
+
+-> Operadores de Atribuição
+Usamos para atualizar valores de variáveis:
+
+Operador | Exemplo | Significado
+=        | x = 10; | Atribuição simples
++=       | x += 5; | x = x + 5;
+-=       | x -= 3; | x = x - 3;
+*=       | x *= 2; | x = x * 2;
+/=       | x /= 4; | x = x / 4;
+%=       | x %= 3; | x = x % 3; (se for int)
+

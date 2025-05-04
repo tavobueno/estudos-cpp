@@ -1,0 +1,6 @@
+Operadores (parte 1)
+Nesta aula, eu pratiquei decisões mais avançadas com if, else if e else.
+O foco foi entender como combinar condições com operadores lógicos como && (E) e || (OU).
+
+Criei um programa que avalia a idade e o tempo de estudo do usuário, e responde de forma diferente conforme as condições.
+Foi bem tranquilo porque eu já tinha bastante experiência com esse tipo de estrutura em outras linguagens.

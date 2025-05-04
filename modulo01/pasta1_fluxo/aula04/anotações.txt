@@ -1,0 +1,14 @@
+==  → verifica se dois valores são iguais (ex: a == b)
+!=  → verifica se dois valores são diferentes (ex: a != b)
+>   → verifica se o valor da esquerda é maior (ex: a > b)
+<   → verifica se o valor da esquerda é menor (ex: a < b)
+>=  → verifica se o valor da esquerda é maior ou igual (ex: a >= b)
+<=  → verifica se o valor da esquerda é menor ou igual (ex: a <= b)
+
+Todas essas comparações retornam um valor booleano:
+true (1) se a comparação for verdadeira,
+false (0) se for falsa.
+
+Você pode armazenar o resultado da comparação em uma variável do tipo `bool`.
+Exemplo:
+bool resultado = (x < y);

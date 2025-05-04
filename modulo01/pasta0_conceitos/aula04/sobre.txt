@@ -1,0 +1,9 @@
+Operadores Aritméticos: +, -, *, /, %
+Operadores de Atribuição: =, +=, -=, *=, /=, %=
+Prática com entrada e saída de dados (std::cin e std::cout)
+Como aplicar isso em pequenos cálculos.
+
+
+Nesta aula aprendi os operadores fundamentais da linguagem:
+- Aritméticos (cálculos);
+- Atribuição (atualização de variáveis).

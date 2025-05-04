@@ -1,0 +1,5 @@
+// Laço for é usado para contagens controladas.
+// Muito útil quando temos um início, fim e passo bem definidos.
+
+➜  aula03 g++ pratica2.cpp -o pratica2
+➜  aula03 ./pratica2

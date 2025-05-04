@@ -1,0 +1,23 @@
+→ Estrutura básica do switch:
+
+switch (variavel) {
+  case valor1:
+    // ação 1
+    break;
+
+  case valor2:
+    // ação 2
+    break;
+
+  // ...
+
+  default:
+    // ação se não for nenhum valor acima
+    break;
+}
+
+→ break é super importante para o programa não continuar executando os próximos case.
+
+→ default é opcional, mas muito útil quando o usuário digita algo inesperado.
+
+→ Ideal para menus e decisões com base em valores fixos.

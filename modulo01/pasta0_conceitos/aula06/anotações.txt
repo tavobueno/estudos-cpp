@@ -1,0 +1,20 @@
+-> Operadores Lógicos (parte 1):
+
+    && (E): a condição só é verdadeira se ambas forem verdadeiras.
+
+    || (OU): a condição é verdadeira se pelo menos uma for verdadeira.
+
+    ! (diferente): a condição for diferente de.
+
+-> Exemplo de uso:
+
+if(idade < 18 && horas < 2){
+  // Ambas as condições precisam ser verdadeiras
+}
+
+if(idade >= 18 || horas >= 4){
+  // Basta uma das duas ser verdadeira
+}
+
+-> Observação: Já estou bem familiarizado com if, else if, else e operadores lógicos, então essa aula serviu mais como prática e revisão.
+Mas foi útil pra reforçar como deixar os códigos bem claros e com múltiplas possibilidades de resposta.

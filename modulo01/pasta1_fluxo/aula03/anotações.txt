@@ -1,0 +1,9 @@
+// Estrutura do for:
+// for(inicialização; condição; incremento) { bloco }
+
+// Exemplo:
+// for(int i = 0; i < 5; i++) {
+//     std::cout << i << std::endl;
+// }
+
+// Ideal para quando sabemos exatamente quantas repetições serão feitas.

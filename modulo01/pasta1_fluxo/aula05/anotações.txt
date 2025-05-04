@@ -1,0 +1,8 @@
+- Condicional ternária serve para simplificar `if/else`.
+- Ela retorna um valor dependendo de uma condição booleana.
+- A estrutura é: condição ? valor_se_verdadeiro : valor_se_falso;
+- Pode ser usada com tipos: std::string, int, bool, etc.
+- Ajuda a deixar o código mais curto e legível quando for uma decisão simples.
+
+Exemplo:
+bool acessoPermitido = (idade >= 18) ? true : false;

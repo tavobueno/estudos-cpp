@@ -1,0 +1,5 @@
+Nesta aula, aprendi a usar o switch, uma estrutura que permite criar menus e responder de forma diferente para cada valor.
+
+Usei ela para fazer um menu com atividades do dia a dia, que responde de forma divertida dependendo da escolha.
+
+Também aprendi que o default é usado quando nenhuma das opções anteriores bate com a entrada do usuário.

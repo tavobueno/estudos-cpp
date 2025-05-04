@@ -1,0 +1,15 @@
+Em C++, structs podem armazenar:
+
+    Tipos primitivos (int, float, bool, char, etc.)
+
+    Tipos compostos (std::string, arrays, std::vector, ponteiros…)
+
+    Outras structs (aninhadas ou referenciadas)
+
+    Classes (sim, structs podem conter objetos de outras classes ou structs!)
+
+Mas elas não são iguais a JSON.
+
+eu gosto formato de objetos em json, por ser algo que armazena dados de forma bem estruturada, mas não tem como colocar em structs, pois são estruturas fixas e estáticas, seus "membros" são definidos já no tempo de compilação, oq nao possibilita armazenar em struct tipos de objetos json.
+
+se eu fosse querer algo mais próximo de JSON, eu teria usaria algo como std::map<std::string, std::any> ou bibliotecas externas como nlohmann/json, mas isso já entra no C++ avançado, mas estou no basico.

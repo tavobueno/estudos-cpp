@@ -1,0 +1,9 @@
+Objetivo: Aprender a usar loops com while e switch para criar menus interativos.
+
+Tópicos Abordados:
+
+    Estrutura de repetição while.
+
+    Uso de switch para tomada de decisão.
+
+    Laços que continuam até uma condição ser atendida (neste caso, o while executa até a opção 4 ser escolhida).

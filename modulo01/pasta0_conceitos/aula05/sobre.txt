@@ -1,0 +1,3 @@
+Nesta aula, aprendi como o programa pode tomar decisões com if, else if e else.
+Usei operadores como ==, !=, >=, < para comparar valores.
+Fiz um programa que responde baseado na idade da pessoa.

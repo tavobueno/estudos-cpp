@@ -1,0 +1,24 @@
+nessa aula aprendi sobre fazer "variáveis" onde elas possuem propriedades, e podemos fazer diversas coisas uteis com ela, para resumir, aprendi a estrutura do stuct!
+
+Cadastro e Organização de Alunos por Turmas
+
+Conteúdo Aprendido:
+
+    Criação de structs aninhadas e organizadas: Aluno e Turmas.
+
+    Uso de arrays de structs para armazenar alunos dentro de cada turma.
+
+    Aplicação de condicionais para definir a sala correta com base na entrada do usuário.
+
+    Manipulação de strings, tipos de dados básicos (int, float, bool, std::string).
+
+    Lógica para preencher, organizar e exibir dados de forma clara.
+
+    Uso do system("clear") para limpar o terminal e melhorar a interface do usuário.
+
+    Prática de laços for e controle de índice para múltiplos cadastros.
+
+    Apresentação final com separadores visuais e estrutura clara por turma.
+
+Resultado: Um sistema funcional que cadastra alunos em turmas 9a, 9b e 9c, armazena suas informações, e exibe um relatório final formatado, por sala.
+

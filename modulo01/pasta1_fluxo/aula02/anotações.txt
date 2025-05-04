@@ -1,0 +1,9 @@
+- while: estrutura que repete um bloco de código enquanto uma condição for verdadeira.
+- Sintaxe:
+
+    while(condição){
+        // instruções
+    }
+
+- Muito cuidado com loops infinitos! A variável de controle precisa mudar dentro do laço.
+- Exemplo usado: contagem crescente de 1 a 10.

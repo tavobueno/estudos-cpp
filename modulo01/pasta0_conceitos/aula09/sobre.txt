@@ -1,0 +1,5 @@
+Aula 09 - Operadores Lógicos (parte 2)
+
+Nesta aula, reforçamos os operadores lógicos `&&`, `||` e aprendemos o `!`.
+O exercício foi criar um programa que avalia se o usuário estudou e fez as atividades de casa, dando respostas diferentes com base nisso.
+A lógica foi aplicada com clareza e os operadores foram usados de forma prática no código.

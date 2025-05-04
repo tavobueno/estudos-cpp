@@ -1,0 +1,15 @@
+🧪 Desafio da aula (prática orientada):
+
+Vamos criar um programa onde:
+
+    O usuário vai digitar o nome de 3 pessoas;
+
+    Depois, vai digitar a idade de cada uma;
+
+    Em seguida, responder se ela confirmou presença (1 = sim, 0 = não);
+
+    Ao final, o programa mostra a lista formatada, como:
+
+[Confirmado] João, 18 anos.
+[Não confirmado] Ana, 21 anos.
+[Confirmado] Lucas, 16 anos.

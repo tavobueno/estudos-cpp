@@ -1,0 +1,10 @@
+🔁 Estrutura do while:
+
+int numero = 10;
+while(numero >= 1){
+    // ações repetidas
+    numero--;
+}
+
+- O while repete o bloco enquanto a condição for verdadeira.
+- Muito usado quando não sabemos exatamente quantas repetições serão feitas.
